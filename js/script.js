@@ -14,3 +14,6 @@ function lhx(){
 function HTS(){
     window.open("HTS.html");
 }
+function BRG(){
+    window.open("BackRG.html");
+}

@@ -19,6 +19,12 @@ let find = document.getElementById("find").value;
     else if(find == "马帅快快跑"){
         window.open("MSR.html");
     }
+    else if(find == "后室"){
+        BRG();
+    }
+    else if(find == "后室克隆"){
+        BRG();
+    }
     else if(find == "校长模拟器"){
         HTS();
     }
